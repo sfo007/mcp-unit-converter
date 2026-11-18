@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "unit-converter": {
+      "command": "uvx",
+      "args": ["--from", "/ABSOLUTE/PATH/TO/mcp-unit-converter", "mcp-unit-converter"]
+    }
+  }
+}
